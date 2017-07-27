@@ -8,7 +8,7 @@ Source: NYC Taxi & Limousine Commission
 ### TRIP_DATA.csv
   * medallion: a permit to operate a yellow taxi cab in New York City, it is effectively a (randomly assigned) car ID.
   * hack_license: a license to drive the vehicle, it is effectively a (randomly assigned) driver ID.
-  * vender_id:  e.g., Verifone Transportation Systems (VTS), or Mobile Knowledge Systems Inc (CMT), implemented as part of the Technology Passenger Enhancements Project.
+  * vendor_id:  e.g., Verifone Transportation Systems (VTS), or Mobile Knowledge Systems Inc (CMT), implemented as part of the Technology Passenger Enhancements Project.
   * rate_code: taximeter rate. Check http://www.nyc.gov/html/tlc/html/passenger/taxicab_rate.shtml.
   * pickup_datetime: start time of the trip, mm-dd-yyyy hh24:mm:ss EDT.
   * dropoff_datetime: end time of the trip, mm-dd-yyyy hh24:mm:ss EDT.
